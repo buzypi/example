@@ -79,4 +79,11 @@
       </plugins>
     </pluginManagement>
   </build>
+  <distributionManagement>
+    <repository>
+      <id>central</id>
+      <name>10b4d4d4e4d8-releases</name>
+      <url>http://143.110.187.143:8081/artifactory/jnaapti-libs-release-local</url>
+    </repository>
+  </distributionManagement>
 </project>
